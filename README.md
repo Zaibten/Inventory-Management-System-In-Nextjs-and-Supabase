@@ -79,11 +79,3 @@ User authentication is handled through Supabase. The login page is available at 
 ## Error Handling
 
 A basic error page is implemented at `/error` to handle and display any errors that occur during runtime.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
